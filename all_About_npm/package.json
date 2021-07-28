@@ -1,0 +1,15 @@
+{
+  "name": "all_about_npm",
+  "version": "1.0.0",
+  "description": "in this project, I will use different npm packages for practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "validator": "^13.6.0"
+  }
+}
